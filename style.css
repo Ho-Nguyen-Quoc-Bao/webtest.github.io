@@ -1,0 +1,15 @@
+.imgs img{
+    height: 900px;
+    width: 1000px;
+    padding: 1%;
+    
+}
+.imgs{
+    text-align: center;
+}
+.content{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    color: red;
+}
